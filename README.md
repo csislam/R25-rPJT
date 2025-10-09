@@ -1,10 +1,7 @@
-<img width="434" height="244" alt="image" src="https://github.com/user-attachments/assets/f84caab5-d95d-491f-87c6-2eee8e08b2ca" />
-
 # Hierarchical Spatial Algorithms for High-Resolution Image Quantization and Feature Extraction
 
-This repository presents a **robust and modular computer vision framework** for detecting, isolating, and geometrically aligning snooker cues in static images. Developed as part of the **Advanced Topics in Image Analysis (BBL588E)** course at **Istanbul Technical University (Spring 2025)**, the framework integrates classical image processing techniques with precise geometric analysis to provide high-fidelity cue alignment. This methodology is suitable for sports analytics, player training systems, and automated visual inspection workflows.
+<img width="813" height="366" alt="image" src="https://github.com/user-attachments/assets/0787c765-765f-4928-8268-06c22da641e6" />
 
-**Author:** Noor Islam S. Mohammad (SID: 704231023)
 
 ---
 
